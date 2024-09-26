@@ -1,0 +1,1 @@
+@powershell.exe -ExecutionPolicy RemoteSigned -File uninstall.ps1
